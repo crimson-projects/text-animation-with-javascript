@@ -1,8 +1,6 @@
 <div align="center">
 
-# Text Animation with JavaScript | Crimson
-
-### <a href="https://contact-us21.netlify.app/"> link </a>
+# Letter Form with JavaScript | Crimson
 
 <img src="admin/base.png">
 
